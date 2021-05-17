@@ -1,0 +1,9 @@
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagement.BLL\bin\Debug\netcoreapp2.2\EmployeManagement.BLL.deps.json
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagement.BLL\bin\Debug\netcoreapp2.2\EmployeManagement.BLL.dll
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagement.BLL\bin\Debug\netcoreapp2.2\EmployeManagement.BLL.pdb
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagement.BLL\obj\Debug\netcoreapp2.2\EmployeManagement.BLL.csprojAssemblyReference.cache
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagement.BLL\obj\Debug\netcoreapp2.2\EmployeManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagement.BLL\obj\Debug\netcoreapp2.2\EmployeManagement.BLL.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagement.BLL\obj\Debug\netcoreapp2.2\EmployeManagement.BLL.AssemblyInfo.cs
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagement.BLL\obj\Debug\netcoreapp2.2\EmployeManagement.BLL.dll
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagement.BLL\obj\Debug\netcoreapp2.2\EmployeManagement.BLL.pdb

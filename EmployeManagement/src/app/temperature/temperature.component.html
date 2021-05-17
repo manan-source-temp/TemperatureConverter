@@ -1,0 +1,47 @@
+
+
+<div class="card m-3 col-4">
+    <h5 class="card-header">Temperature Convert to Celsius,Fahrenheit and Kelvin</h5>
+    <div class="card-body ">
+      <div class="form-row">
+        <div class="form-group col">      
+          <label>Temperature Value</label>
+          <input type="text" numbersOnly [(ngModel)]="temperatureValue" (ngModelChange)="TemperatureValueChange($event)" class="form-control"> 
+        </div>
+        <div class="form-group col">
+          <label>Temperature</label>
+          <select (change)="SelectedTemperature($event.target.value)" [(ngModel)]="defaultTemperatureValue" class="form-control">         
+            <option value="c">Celsius</option>
+            <option value="f">Fahrenheit</option>    
+            <option value="k">Kelvin</option>
+          </select>
+        </div>
+        <div class="form-group col">
+          <label>Temperature Converter To : </label>
+          <select (change)="TemperatureConverter($event.target.value)" [(ngModel)]="defaultTemperatureConverterValue" class="form-control">          
+            <option value="c">Celsius</option>
+            <option value="f">Fahrenheit</option>
+            <option value="k">Kelvin</option>
+          </select>
+        </div>
+        <div class="form-group col">
+          <label></label>
+           <label class="form-control" >Result: {{result}}</label>  
+        </div>
+        <div class="form-group col" *ngIf="displayError">
+          <label></label>
+          <label class="errorMessage"> {{errorMessage}}</label>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

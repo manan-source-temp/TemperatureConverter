@@ -1,0 +1,17 @@
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\obj\Debug\netcoreapp2.2\TemperatureConverterApp.csprojAssemblyReference.cache
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\obj\Debug\netcoreapp2.2\TemperatureConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\obj\Debug\netcoreapp2.2\TemperatureConverterApp.RazorAssemblyInfo.cache
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\obj\Debug\netcoreapp2.2\TemperatureConverterApp.RazorAssemblyInfo.cs
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\obj\Debug\netcoreapp2.2\TemperatureConverterApp.AssemblyInfoInputs.cache
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\obj\Debug\netcoreapp2.2\TemperatureConverterApp.AssemblyInfo.cs
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\bin\Debug\netcoreapp2.2\TemperatureConverterApp.deps.json
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\bin\Debug\netcoreapp2.2\TemperatureConverterApp.runtimeconfig.json
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\bin\Debug\netcoreapp2.2\TemperatureConverterApp.runtimeconfig.dev.json
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\bin\Debug\netcoreapp2.2\TemperatureConverterApp.dll
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\bin\Debug\netcoreapp2.2\TemperatureConverterApp.pdb
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\obj\Debug\netcoreapp2.2\TemperatureConverterApp.RazorTargetAssemblyInfo.cache
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\obj\Debug\netcoreapp2.2\TemperatureConverterApp.csproj.CopyComplete
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\obj\Debug\netcoreapp2.2\TemperatureConverterApp.dll
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\obj\Debug\netcoreapp2.2\TemperatureConverterApp.pdb
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\bin\Debug\netcoreapp2.2\TemperatureConverter.BLL.dll
+C:\Users\User 1\source\repos\EmployeManagementDemo\EmployeManagementDemo\bin\Debug\netcoreapp2.2\TemperatureConverter.BLL.pdb
