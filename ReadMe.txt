@@ -1,5 +1,16 @@
 
 
+Sorry for inconvenient name of the folder
+
+I have put both project Angular (UI) and ASP.NET CORE in same project. Name of angular folder is EmployeManagement.
+I have created End pont and business logic teste cases. Folder name is EmployeeManagementTest
+Business logic put into EmployeManagement.BLL folder
+API End points controller folder name is EmployeManagementDemo
+
+
+I have used directive feature for allow only number in temperature value in angular.
+
+
 I have created TemperatureConverterApp for end points
 Thre is Get end points which has three paramter like temperatureValue, oldTemperatureType and currenTemperatureType
 temperatureValue is user enter value from UI side
@@ -7,9 +18,9 @@ oldTemperatureType is old value which is selected from items
 currenTemperatureType is value that is selected from temperature converter items list
 
 
-URL - http://localhost:64206/api/Temperature/{temperatureValue}/{oldTemperatureType}
+URL - http://localhost:64206/api/Temperature/{temperatureValue}/{oldTemperatureType}/{currenTemperatureType}
 
-http://localhost:64206/api/Temperature/11/f/currenTemperatureType?oldTemperatureType=c
+
 Temperature
 Celsius - c
 Fahrenheit - f
