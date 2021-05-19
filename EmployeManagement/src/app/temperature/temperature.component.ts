@@ -78,7 +78,7 @@ TemperatureConvertCal(tempValue:number,oldValue:string,currentValue:string)
       );   
   }
 
-  test(temperatureValue:number)
+  TemperatureValueChange(temperatureValue:number)
 {
   if(this.temperatureValue == undefined || this.temperatureValue.toString() == "")
   {  
