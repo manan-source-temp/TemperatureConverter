@@ -90,8 +90,7 @@ TemperatureConvertCal(tempValue:number,oldValue:string,currentValue:string)
   if((this.oldvalue!=null) || (this.currentValue!=null))
   {    
     
-    this.TemperatureConvertCal(this.temperatureValue,this.oldvalue,this.currentValue);
-    alert(this.temperatureValue);
+    this.TemperatureConvertCal(this.temperatureValue,this.oldvalue,this.currentValue);    
     
   }
 }
